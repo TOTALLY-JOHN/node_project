@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/jihwanjeong/Documents/develop/node_project/logs/.098d8de2f74f29c391e06184b7349d7f0efeb467-audit.json",
+    "files": [
+        {
+            "date": 1713964099321,
+            "name": "/Users/jihwanjeong/Documents/develop/node_project/logs/2024-04-24.log",
+            "hash": "580ddc7e22995a501c1615c7361043aa89a2288e1e369fc7783281fec5eee436"
+        }
+    ],
+    "hashType": "sha256"
+}

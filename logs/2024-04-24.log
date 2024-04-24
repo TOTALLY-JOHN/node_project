@@ -1,0 +1,17 @@
+2024-04-24 22:09:03 [test_project] info: hello world
+2024-04-24 22:09:03 [test_project] error: hello world
+2024-04-24 22:09:03 [test_project] warn: hello world
+2024-04-24 22:11:20 [test_project] info: GET /transactions/
+2024-04-24 22:11:57 [test_project] info: GET /transactions/
+2024-04-24 22:11:58 [test_project] info: GET /transactions/
+2024-04-24 22:12:01 [test_project] info: GET /reservations/
+2024-04-24 22:25:31 [test_project] info: GET /reservations/
+2024-04-24 22:25:31 [test_project] info: GET /reservations 200 7.216 ms - 23
+
+2024-04-24 22:25:31 [test_project] info: GET /favicon.ico 404 1.427 ms - 150
+
+2024-04-24 22:25:33 [test_project] info: hello world
+2024-04-24 22:25:33 [test_project] info: GET / 200 1.064 ms - 14
+
+2024-04-24 22:25:33 [test_project] info: GET /favicon.ico 404 0.686 ms - 150
+
